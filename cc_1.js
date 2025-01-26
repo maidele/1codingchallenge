@@ -28,4 +28,7 @@ let customerName = "Madison Williams"; // name of the customer
 let welcomeMessage = new String("Welcome, Madison!");
 console.log(welcomeMessage); // [String: 'Welcome, Madison!']
 
-//
+//Task 5: Access Control
+let isLoggedIn = true;
+let isAccess = true;
+console.log(isLoggedIn && isAccess); // Output: true

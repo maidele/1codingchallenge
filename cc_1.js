@@ -23,3 +23,9 @@ accountBalance /=2; // dividing by 2
 accountbalance *3; // multiplying by 3
 console.log(accountBalance); // Output: 1,240.5
 
+//Task 4: Customer Messaging
+let customerName = "Madison Williams"; // name of the customer
+let welcomeMessage = new String("Welcome, Madison!");
+console.log(welcomeMessage); // [String: 'Welcome, Madison!']
+
+//

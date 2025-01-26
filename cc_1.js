@@ -6,4 +6,4 @@ var isActive = true; // Boolean value- Employee is isActive
 console.log(typeof employeeName)
 console.log(typeof employeeID) 
 console.log(type of isActive) 
-<script src="script.js"></script>
+

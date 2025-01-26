@@ -20,7 +20,7 @@ let accountBalance = "777"; // amount of money that is in the account currently
 accountBalance +=150; // adding 150
 accountBalance -=100; // subtracting 100
 accountBalance /=2; // dividing by 2
-accountbalance *3; // multiplying by 3
+accountbalance *=3; // multiplying by 3
 console.log(accountBalance); // Output: 1,240.5
 
 //Task 4: Customer Messaging

@@ -1,5 +1,5 @@
 
-//Task 1: Variables
+//Task 1: Employee Information
 let employeeName = "Jessica Parks"; //String - Employee's name 
 const employeeID = 7777; // Number - ID for the Employee
 var isActive = true; // Boolean value- Employee is isActive
@@ -7,7 +7,7 @@ console.log(typeof employeeName);
 console.log(typeof employeeID); 
 console.log(typeof isActive) ;
 
-//Task 2: Primitive Data Types
+//Task 2: Product Details
 let productName = "Iphone 13"; // name of Iphone
 const productPrice = 800; //cost of Iphone
 var isAvaiable = true; // Iphone is available
@@ -15,4 +15,11 @@ console.log(typeof productName);
 console.log(typeof productPrice);
 console.log(typeof isAvaiable);
 
+//Task 3: Financial Transactions 
+let accountBalance = "777"; // amount of money that is in the account currently
+accountBalance +=150; // adding 150
+accountBalance -=100; // subtracting 100
+accountBalance /=2; // dividing by 2
+accountbalance *3; // multiplying by 3
+console.log(accountBalance); // Output: 1,240.5
 

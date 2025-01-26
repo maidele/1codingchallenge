@@ -10,13 +10,13 @@ console.log(typeof isActive) ;
 //Task 2: Product Details
 let productName = "Iphone 13"; // name of Iphone
 const productPrice = 800; //cost of Iphone
-var isAvaiable = true; // Iphone is available
+var isAvailable = true; // Iphone is available
 console.log(typeof productName);
 console.log(typeof productPrice);
-console.log(typeof isAvaiable);
+console.log(typeof isAvailable);
 
 //Task 3: Financial Transactions 
-let accountBalance = "777"; // amount of money that is in the account currently
+let accountBalance = 777; // amount of money that is in the account currently
 accountBalance +=150; // adding 150
 accountBalance -=100; // subtracting 100
 accountBalance /=2; // dividing by 2
